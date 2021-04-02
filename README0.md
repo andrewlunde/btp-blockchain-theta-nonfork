@@ -1,7 +1,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-sfsf-benefits-ext)](https://api.reuse.software/info/github.com/SAP-samples/cloud-sfsf-benefits-ext)
 
 # BTP Blockchain THETA
-Summary here.
+Summary here...
 
 ## Description
 
