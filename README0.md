@@ -18,6 +18,13 @@ This example is referred to in an upcoming blog post.: [Blog Post](https://peopl
 
 >  **Note:**  These instructions assume you are using a Linux or MacOS system or Business Application Studio(BAS).  If you are on Windows, substitute "/" for "\\" in the included commands.
 
+```
+mkdir -p /home/user/default-plugins
+cd /home/user/default-plugins
+curl -LO https://open-vsx.org/api/sap-partner-eng/sap-bas-extras/0.0.19/file/sap-partner-eng.sap-bas-extras-0.0.19.vsix
+echo "Stop/Start this DevSpace to load the extensions."
+```
+
 
 ## Limitations
 
